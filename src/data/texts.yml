@@ -1,0 +1,35 @@
+Role:
+  hq: HQ
+  el: Elites
+  tr: Troops
+  fa: Fast Attack
+  hs: Heavy Support
+  fl: Fliers
+  lw: Lord of War
+  ft: Fortification
+  dt: Dedicated Transport
+RoleIcon:
+  hq: A
+  el: B
+  tr: C
+  fa: D
+  hs: E
+  fl: G
+  lw: I
+  ft: H
+  dt: F
+Detachment:
+  pl: Patrol
+  vd: Vanguard
+  or: Outrider
+  sd: Spearhead
+  sa: Super-Heavy Auxiliary
+  st: Super-Heavy
+Resource:
+  ey: Empty
+  hc: Hive City
+  sp: Space Port
+  ps: Power Station
+  cb: Command Bastion
+  sg: Shield Generator
+  mm: Manufactorum

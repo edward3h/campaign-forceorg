@@ -1,0 +1,68 @@
+pl:
+  hq:
+    min: 1
+    max: 2
+  el:
+    max: 2
+  tr:
+    min: 1
+    max: 3
+  fa:
+    max: 2
+  hs:
+    max: 2
+  fl:
+    max: 2
+vd:
+  hq:
+    min: 1
+    max: 2
+  el:
+    min: 3
+    max: 6
+  tr:
+    max: 3
+  fa:
+    max: 2
+  hs:
+    max: 2
+  fl:
+    max: 2
+or:
+  hq:
+    min: 1
+    max: 2
+  el:
+    max: 2
+  tr:
+    max: 3
+  fa:
+    min: 3
+    max: 6
+  hs:
+    max: 2
+  fl:
+    max: 2
+sd:
+  hq:
+    min: 1
+    max: 2
+  el:
+    max: 2
+  tr:
+    max: 3
+  fa:
+    max: 2
+  hs:
+    min: 3
+    max: 6
+  fl:
+    max: 2
+sa:
+  lw:
+    min: 1
+    max: 1
+st:
+  lw:
+    min: 3
+    max: 5
